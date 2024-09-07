@@ -9,6 +9,13 @@ This project analyzes and visualizes carbon emissions and GDP data using Python.
 - **Error Calculation:** Computes Root Mean Squared Error (RMSE) for regression models.
 - **Graphing:** Creates 2D plots with Matplotlib and interactive 3D scatter plots with Plotly.
 
+## Tech Stack
+
+- **Backend**: Python
+- **Libraries/Tools**:
+  - NumPy
+  - Plotly
+
 ## Prerequisites
 
 - Python 3.x
