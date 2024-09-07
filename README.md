@@ -22,7 +22,7 @@ This plot shows the linear regression of China's carbon emissions from 1970 to 2
 
 ### 3D Plot of Canada's GDP per Capita vs CO2 Emissions
 
-![Alt text](CarbonEmissionPhoto.png)
+![Alt text](3DCarbonEmissionPhoto.png)
 
 This 3D scatter plot illustrates the relationship between Canada's GDP per capita, CO2 emissions, and years.
 
